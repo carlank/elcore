@@ -7,6 +7,7 @@ g.start();
 function setup() {
   console.log("setup");
   g.backgroundColor = 0x000000;
+  g.scaleToWindow();
 
   //Add some text
   g.text("Hello World!");
