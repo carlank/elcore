@@ -1,5 +1,5 @@
 //Create a new Hexi instance, and start it.
-let g = hexi(256, 256, setup);
+let g = hexi(512, 512, setup);
 g.start();
 
 //A `setup` function that will run only once.
