@@ -6,7 +6,7 @@ g.start();
 //Use it for initialization tasks
 function setup() {
   console.log("setup");
-  g.backgroundColor = 0x111;
+  g.backgroundColor = 0x000000;
 
   //Add some text
   g.text("Hello World!");
